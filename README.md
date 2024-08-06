@@ -1,5 +1,5 @@
 # Caffeine-Calculator-GUI
-This is a caffeine calculator created using MATLAB for a class project. This is the GUI APP version of the code.
+This is a caffeine calculator created using MATLAB for a class project (Spring 2024). This is the GUI APP (.mlapp version of the code). There is also a non-GUI version of this code (.mlx).
 
 # Introduction: 
 Today, caffeine is a popular stimulant used by many college students for various reasons, from increasing gym performance to fueling late-night study sessions and preparing for exams. Caffeine engages with the brain by binding to adenosine receptors and increasing the sympathetic nervous system response by increasing the heart rate and blood pressure, as well as increasing adrenaline and cortisol.
